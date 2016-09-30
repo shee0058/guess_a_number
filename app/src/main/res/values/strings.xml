@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Guess A Number</string>
+    <string name="button_guess">Guess</string>
+    <string name="button_reset">Reset</string>
+    <string name="guess_hint">Guess Here</string>
+    <string name="guess_explanation">Please make a guess between 1 and 1000 then hit guess. Hit reset to start over. You get 10 tries.</string>
+    <string name="action_about">About</string>
+    <string name="author">Owen Sheehan (shee0058)</string>
+    <string name="gfgfg">fsfsf</string>
+</resources>
